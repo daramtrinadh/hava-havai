@@ -1,0 +1,38 @@
+.airport-section{
+    display: flex;
+    flex-direction: row;
+    
+}
+.airports-info{
+    display:flex;
+    flex-direction: column;
+    padding:20px;
+    width:80%;
+}
+.head-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+}
+.add-item{
+    background-color: black;
+    color:white;
+    padding:7px;
+    border-radius: 5px;
+    border-width:0px;
+    cursor: pointer;
+}
+.edit-btn{
+    background-color: transparent;
+    border-width:0px;
+    margin:5px;
+    cursor: pointer;
+}
+.delete-btn{
+    background-color: transparent;
+    border-width:0px;
+    margin:5px;
+    cursor: pointer;
+}

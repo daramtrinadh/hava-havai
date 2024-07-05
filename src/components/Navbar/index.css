@@ -1,0 +1,11 @@
+.navbar-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.2);
+}
+.brand{
+    color:white;
+}

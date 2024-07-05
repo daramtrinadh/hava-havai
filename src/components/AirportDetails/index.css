@@ -1,0 +1,40 @@
+.airport-details{
+    padding:20px;
+}
+.airport-detail-info{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.item{
+    margin:10px;
+}
+.terminal-sample-image{
+    height:140px;
+}
+.details-section{
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+    width:280px;
+    border:1px solid white;
+    border-radius:5px;
+}
+.terminal-details{
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    
+}
+.terminal-para{
+    padding-left:10px;
+}
+.svg{
+    margin:15px;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}

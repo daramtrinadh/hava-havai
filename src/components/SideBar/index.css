@@ -1,0 +1,29 @@
+.sidebar-inner-section {
+    display: flex;
+    flex-direction: column;  
+    color:white;  
+}
+
+.home-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.text{
+    color:white;
+    margin:10px;
+}
+.link{
+    text-decoration: none;
+}
+.link-airport{
+    margin:10px;
+    text-decoration: none;
+    color:white;
+}
+.link-videos{
+    margin:10px;
+    text-decoration: none;
+    color:white;
+}

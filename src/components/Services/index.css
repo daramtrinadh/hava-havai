@@ -1,0 +1,22 @@
+.services-section{
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+}
+.services{
+    display: flex;
+    flex-direction: row;
+
+}
+.picker{
+    margin:7px;
+}
+.services-text{
+    margin:7px;
+}
+.upload-btn{
+    margin:30px;
+}
+.switch{
+    margin-top:25px;
+}

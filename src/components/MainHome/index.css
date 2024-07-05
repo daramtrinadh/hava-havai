@@ -1,0 +1,13 @@
+.main-home-sec{
+    display: flex;
+    flex-direction: row;
+    
+}
+.sidebar-section{
+    width:15%;
+    box-shadow: 4px 0 4px -4px rgba(0, 0, 0, 0.2);
+    padding:20px;
+    margin-top: 0px;
+    padding:10px;
+    height:100vh;
+}
